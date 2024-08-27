@@ -7,8 +7,4 @@ Game Mechanics:
 3)Visual Feedback: The drum pads may change color or animate to provide visual feedback.
 4)Play Along: Users can play along to pre-recorded drum beats or create their own rhythms.
 
-To run the project:
-Ensure you have Node.js and its package manager npm installed on your system.
-Open your terminal or command prompt and use the 'cd' command to navigate to the directory where your Node.js project is located and run the following commands:
-
-node index.js
+![image](https://github.com/user-attachments/assets/a217084a-d5cf-4100-886e-9ea703b7b53e)
